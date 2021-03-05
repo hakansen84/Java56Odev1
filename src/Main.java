@@ -142,6 +142,7 @@ public class Main {
     public static void main(String[] args) {
 
         do {
+        	System.out.println();
             System.out.println("------------------------JAVA 56 ODEV 1 --------------------------------");
             System.out.println("--------- MENÜDEN KULLANMAK İSTEDİĞİNİZ İLGİLİ METOTU SEÇİNİZ----------");
             System.out.println("------------------------------MENÜ ------------------------------------");
